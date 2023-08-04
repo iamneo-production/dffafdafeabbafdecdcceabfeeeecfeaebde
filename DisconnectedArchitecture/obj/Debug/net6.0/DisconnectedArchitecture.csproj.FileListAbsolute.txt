@@ -1,0 +1,44 @@
+D:/Visual Studio/DisconnectedArchitecture/DisconnectedArchitecture/bin/Debug/net6.0/DisconnectedArchitecture.exe
+D:/Visual Studio/DisconnectedArchitecture/DisconnectedArchitecture/bin/Debug/net6.0/DisconnectedArchitecture.deps.json
+D:/Visual Studio/DisconnectedArchitecture/DisconnectedArchitecture/bin/Debug/net6.0/DisconnectedArchitecture.runtimeconfig.json
+D:/Visual Studio/DisconnectedArchitecture/DisconnectedArchitecture/bin/Debug/net6.0/DisconnectedArchitecture.dll
+D:/Visual Studio/DisconnectedArchitecture/DisconnectedArchitecture/bin/Debug/net6.0/DisconnectedArchitecture.pdb
+D:/Visual Studio/DisconnectedArchitecture/DisconnectedArchitecture/bin/Debug/net6.0/System.Data.SqlClient.dll
+D:/Visual Studio/DisconnectedArchitecture/DisconnectedArchitecture/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+D:/Visual Studio/DisconnectedArchitecture/DisconnectedArchitecture/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+D:/Visual Studio/DisconnectedArchitecture/DisconnectedArchitecture/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+D:/Visual Studio/DisconnectedArchitecture/DisconnectedArchitecture/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/Visual Studio/DisconnectedArchitecture/DisconnectedArchitecture/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+D:/Visual Studio/DisconnectedArchitecture/DisconnectedArchitecture/obj/Debug/net6.0/DisconnectedArchitecture.csproj.AssemblyReference.cache
+D:/Visual Studio/DisconnectedArchitecture/DisconnectedArchitecture/obj/Debug/net6.0/DisconnectedArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+D:/Visual Studio/DisconnectedArchitecture/DisconnectedArchitecture/obj/Debug/net6.0/DisconnectedArchitecture.AssemblyInfoInputs.cache
+D:/Visual Studio/DisconnectedArchitecture/DisconnectedArchitecture/obj/Debug/net6.0/DisconnectedArchitecture.AssemblyInfo.cs
+D:/Visual Studio/DisconnectedArchitecture/DisconnectedArchitecture/obj/Debug/net6.0/DisconnectedArchitecture.csproj.CoreCompileInputs.cache
+D:/Visual Studio/DisconnectedArchitecture/DisconnectedArchitecture/obj/Debug/net6.0/DisconnectedArchitecture.csproj.CopyComplete
+D:/Visual Studio/DisconnectedArchitecture/DisconnectedArchitecture/obj/Debug/net6.0/DisconnectedArchitecture.dll
+D:/Visual Studio/DisconnectedArchitecture/DisconnectedArchitecture/obj/Debug/net6.0/refint/DisconnectedArchitecture.dll
+D:/Visual Studio/DisconnectedArchitecture/DisconnectedArchitecture/obj/Debug/net6.0/DisconnectedArchitecture.pdb
+D:/Visual Studio/DisconnectedArchitecture/DisconnectedArchitecture/obj/Debug/net6.0/DisconnectedArchitecture.genruntimeconfig.cache
+D:/Visual Studio/DisconnectedArchitecture/DisconnectedArchitecture/obj/Debug/net6.0/ref/DisconnectedArchitecture.dll
+/home/coder/project/workspace/DisconnectedArchitecture/obj/Debug/net6.0/DisconnectedArchitecture.csproj.AssemblyReference.cache
+/home/coder/project/workspace/DisconnectedArchitecture/obj/Debug/net6.0/DisconnectedArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+/home/coder/project/workspace/DisconnectedArchitecture/obj/Debug/net6.0/DisconnectedArchitecture.AssemblyInfoInputs.cache
+/home/coder/project/workspace/DisconnectedArchitecture/obj/Debug/net6.0/DisconnectedArchitecture.AssemblyInfo.cs
+/home/coder/project/workspace/DisconnectedArchitecture/obj/Debug/net6.0/DisconnectedArchitecture.csproj.CoreCompileInputs.cache
+/home/coder/project/workspace/DisconnectedArchitecture/obj/Debug/net6.0/DisconnectedArchitecture.dll
+/home/coder/project/workspace/DisconnectedArchitecture/obj/Debug/net6.0/refint/DisconnectedArchitecture.dll
+/home/coder/project/workspace/DisconnectedArchitecture/obj/Debug/net6.0/DisconnectedArchitecture.pdb
+/home/coder/project/workspace/DisconnectedArchitecture/bin/Debug/net6.0/DisconnectedArchitecture
+/home/coder/project/workspace/DisconnectedArchitecture/bin/Debug/net6.0/DisconnectedArchitecture.deps.json
+/home/coder/project/workspace/DisconnectedArchitecture/bin/Debug/net6.0/DisconnectedArchitecture.runtimeconfig.json
+/home/coder/project/workspace/DisconnectedArchitecture/bin/Debug/net6.0/DisconnectedArchitecture.dll
+/home/coder/project/workspace/DisconnectedArchitecture/bin/Debug/net6.0/DisconnectedArchitecture.pdb
+/home/coder/project/workspace/DisconnectedArchitecture/bin/Debug/net6.0/System.Data.SqlClient.dll
+/home/coder/project/workspace/DisconnectedArchitecture/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/home/coder/project/workspace/DisconnectedArchitecture/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/home/coder/project/workspace/DisconnectedArchitecture/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/home/coder/project/workspace/DisconnectedArchitecture/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/coder/project/workspace/DisconnectedArchitecture/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/coder/project/workspace/DisconnectedArchitecture/obj/Debug/net6.0/DisconnectedArchitecture.csproj.CopyComplete
+/home/coder/project/workspace/DisconnectedArchitecture/obj/Debug/net6.0/DisconnectedArchitecture.genruntimeconfig.cache
+/home/coder/project/workspace/DisconnectedArchitecture/obj/Debug/net6.0/ref/DisconnectedArchitecture.dll

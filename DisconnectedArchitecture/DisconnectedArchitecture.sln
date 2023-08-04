@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisconnectedArchitecture", "DisconnectedArchitecture.csproj", "{C4C906A3-D1B4-47C1-9E92-773EDDB20CBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "..\TestProject\TestProject.csproj", "{F70325EA-4D87-4039-9767-BBCD8FCD935A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4C906A3-D1B4-47C1-9E92-773EDDB20CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4C906A3-D1B4-47C1-9E92-773EDDB20CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4C906A3-D1B4-47C1-9E92-773EDDB20CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4C906A3-D1B4-47C1-9E92-773EDDB20CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F70325EA-4D87-4039-9767-BBCD8FCD935A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F70325EA-4D87-4039-9767-BBCD8FCD935A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F70325EA-4D87-4039-9767-BBCD8FCD935A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F70325EA-4D87-4039-9767-BBCD8FCD935A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
